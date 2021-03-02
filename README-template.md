@@ -1,21 +1,20 @@
-# Put title of your app here
+# Puppy Demo
 
-<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
-<!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
-
+![Workflow result](https://github.com/arplay/challenge-compose/workflows/Check/badge.svg)
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
 
+This project is create for [#AndroidDevChallenge](https://developer.android.com/dev-challenge)
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+
+- The UI is built by Jetpack Compose
+- Puppy list page
+- Puppy detail page
 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
+
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
 ## License
